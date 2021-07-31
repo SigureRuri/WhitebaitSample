@@ -1,0 +1,7 @@
+name: WhitebaitSample
+version: @version@
+main: com.github.shur.whitebaitsample.WhitebaitSample
+api-version: 1.16
+authors: [ ShuR ]
+description: A sample of Whitebait UI
+loadbefore: [ Whitebait ]
